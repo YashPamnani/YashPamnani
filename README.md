@@ -8,6 +8,7 @@ About Me:
 I am a self-motivated individual, seeking for an opportunity to learn something new and out-perform myself while working with a cross-functional team. Looking for an opportunity where I can apply my passion and use the professional experience to work in multiple domains
 
 <!---
-YashPamnani/YashPamnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YashPamnani/YashPamnani is a ✨ Verilog learning ✨ repository where you can view many projects related to Design of Digital Circuits using Verilog Programming.
+In this repository you will find RTL code, Testbench, Schematic output (from Quartus Prime), Terminal output and Simulation (from ModelSim)
 You can click the Preview link to take a look at your changes.
 --->
