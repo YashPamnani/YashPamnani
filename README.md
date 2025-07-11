@@ -3,9 +3,11 @@
 🚀 Senior Design Verification Engineer | ASIC | UVM | Mixed-Signal | SystemVerilog | Python
 Welcome to my GitHub! I'm a passionate and detail-oriented Senior Design Verification Engineer with over 4 years of hands-on experience in verifying complex ASICs and SoC-level designs. I specialize in building robust, scalable verification environments that ensure first-silicon success and reliable performance for advanced semiconductor products.
 
+
 🔍 About Me
 
 I'm currently working at Aura Semiconductor, where I’ve contributed to the verification of Phase-Locked Loop (PLL) IPs, timing jitter attenuators, and digital signal processing blocks. My role spans from testbench architecture to coverage closure and post-silicon validation, using state-of-the-art tools and methodologies.
+
 
 💡 What I Bring to the Table
 
@@ -30,7 +32,6 @@ I'm currently working at Aura Semiconductor, where I’ve contributed to the ver
 - EDA Tools:	Cadence, QuestaSim, Riviera Pro, Xilinx ISE
 - Verification Techniques:	SVA, Coverage Analysis, DPI-C Integration
 
-
 📚 Certifications & Training
 - Maven Silicon - Advanced VLSI Design & Verification
 - RTL design with Verilog
@@ -44,6 +45,7 @@ Through this GitHub space, I aim to:
 - Demonstrate testbench architectures and automation scripts used in real-world ASIC projects.
 - Provide educational resources for junior engineers getting started with digital verification.
 - Host open-source projects that reflect real verification challenges and their solutions.
+
 
 🤝 Let’s Connect
 
