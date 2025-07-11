@@ -1,13 +1,28 @@
-- 👋 Hi, I’m @YashPamnani
-- 👀 I’m interested in Front-end Design in VLSI
-- 🌱 I’m currently learning Advanced Design and Verification at Maven Silicon
-- 📫 You can reach me through LinkedIn (my profile - linkedin.com/in/yash-pamnani-94a515149/)
+👋 Hi, I'm Yash Pamnani
+🎯 Senior Design Verification Engineer with 4+ years of experience in verifying complex ASIC and system-level designs. Passionate about ensuring high-quality silicon through scalable, modular, and efficient verification methodologies.
 
-About Me:
-- Exposed to the world of Electronics at the age of 15, which drew me to pursue a degree in the same field. Finding my interest in the field of Robotics, Automation and VLSI, I have worked in this technology. I have created various projects as well as competed in these fields through which I have learned my short comes and work rigorously to improve it.
-I am a self-motivated individual, seeking for an opportunity to learn something new and out-perform myself while working with a cross-functional team. Looking for an opportunity where I can apply my passion and use the professional experience to work in multiple domains
+🧠 What I Do
+- Develop and architect UVM-based verification environments for mixed-signal and digital IPs, particularly Phase-Locked Loops (PLLs) and DSP blocks.
+- Specialize in protocol verification (I2C, AMBA AHB/APB), coverage closure (code + functional), and SystemVerilog Assertions.
+- Create and integrate golden reference models using Python and DPI-C for robust validation.
+- Conduct post-silicon validation, cross-functional team coordination, and regression/debug analysis.
+
+🛠 Tech Stack & Tools
+- Languages: SystemVerilog, Verilog, Python, Perl
+- Methodologies: UVM, Constrained-Random, Directed Testing, Assertions
+- Tools: Cadence, QuestaSim, Riviera-Pro, Xilinx ISE
+- Protocols: I2C, AMBA APB & AHB
+- Scripting & Automation: Python/Perl for task automation and report generation
+
+📌 Projects Highlight
+- Owned verification of multiple PLL sub-blocks and DSP filters, ensuring functional correctness and performance validation.
+- Designed checkers for loop dynamics and synchronization in jitter attenuating clock synthesizers.
+- Architected router protocol verification from scratch during training at Maven Silicon.
+
+📫 Let's Connect
+📧 pamnaniyash195@gmail.com
+
+💼 LinkedIn
 
 
-YashPamnani/YashPamnani is a ✨ Verilog learning ✨ repository where you can view many projects related to Design of Digital Circuits using Verilog Programming.
-In this repository you will find RTL code, Testbench, Schematic output (from Quartus Prime), Terminal output and Simulation (from ModelSim)
 
