@@ -20,9 +20,10 @@
 - Architected router protocol verification from scratch during training at Maven Silicon.
 
 📫 Let's Connect
-📧 pamnaniyash195@gmail.com
+pamnaniyash195@gmail.com
 
 💼 LinkedIn
+https://www.linkedin.com/in/yash-pamnani-94a515149/
 
 
 
