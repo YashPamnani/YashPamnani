@@ -4,6 +4,7 @@
 Welcome to my GitHub! I'm a passionate and detail-oriented Senior Design Verification Engineer with over 4 years of hands-on experience in verifying complex ASICs and SoC-level designs. I specialize in building robust, scalable verification environments that ensure first-silicon success and reliable performance for advanced semiconductor products.
 
 🔍 About Me
+
 I'm currently working at Aura Semiconductor, where I’ve contributed to the verification of Phase-Locked Loop (PLL) IPs, timing jitter attenuators, and digital signal processing blocks. My role spans from testbench architecture to coverage closure and post-silicon validation, using state-of-the-art tools and methodologies.
 
 💡 What I Bring to the Table
