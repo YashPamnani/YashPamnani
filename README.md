@@ -1,12 +1,16 @@
 👋 Hello, I'm Yash Pamnani
+
 🚀 Senior Design Verification Engineer | ASIC | UVM | Mixed-Signal | SystemVerilog | Python
 Welcome to my GitHub! I'm a passionate and detail-oriented Senior Design Verification Engineer with over 4 years of hands-on experience in verifying complex ASICs and SoC-level designs. I specialize in building robust, scalable verification environments that ensure first-silicon success and reliable performance for advanced semiconductor products.
 
 🔍 About Me
+
 I'm currently working at Aura Semiconductor, where I’ve contributed to the verification of Phase-Locked Loop (PLL) IPs, timing jitter attenuators, and digital signal processing blocks. My role spans from testbench architecture to coverage closure and post-silicon validation, using state-of-the-art tools and methodologies.
 
 💡 What I Bring to the Table
+
 ✅ Core Expertise
+
 - Verification Methodologies: UVM-based verification, directed and constrained-random testing, coverage-driven verification.
 - Languages & Scripting: SystemVerilog, Verilog, Python, Perl.
 - Protocol Expertise: I2C, AMBA AHB/APB — developed Verification IPs for these protocols.
@@ -14,6 +18,7 @@ I'm currently working at Aura Semiconductor, where I’ve contributed to the ver
 - Tools & Environments: Cadence, QuestaSim, Riviera Pro, Xilinx ISE.
 
 🧪 Verification Projects
+
 - PLL and DSP Block Verification: Developed UVM-based verification environment for PLLs and signal processing blocks, validating loop dynamics, synchronization, and fast-locking features.
 - Mixed-Signal SoC Verification: Collaborated with analog, digital, and application teams for full-chip validation.
 - Checker Development: Implemented checkers and assertions for complex behaviors, including hitless switching and phase-to-frequency correction validation.
@@ -21,6 +26,7 @@ I'm currently working at Aura Semiconductor, where I’ve contributed to the ver
 - Post-Silicon Validation: Verified digital features in lab setups, debugging and analyzing performance in real silicon.
 
 🛠 Tech Stack
+
 - HDL & Verification:	SystemVerilog, Verilog, UVM
 - Scripting & Automation:	Python, Perl
 - Protocols:	I2C, AMBA APB & AHB
@@ -29,6 +35,7 @@ I'm currently working at Aura Semiconductor, where I’ve contributed to the ver
 
 
 📚 Certifications & Training
+
 - Maven Silicon - Advanced VLSI Design & Verification
 - RTL design with Verilog
 - UVM-based testbench development
@@ -36,6 +43,7 @@ I'm currently working at Aura Semiconductor, where I’ve contributed to the ver
 - Python/Perl scripting for automation
 
 📈 GitHub Goals
+
 Through this GitHub space, I aim to:
 - Share reusable UVM components and verification IPs.
 - Demonstrate testbench architectures and automation scripts used in real-world ASIC projects.
@@ -43,6 +51,7 @@ Through this GitHub space, I aim to:
 - Host open-source projects that reflect real verification challenges and their solutions.
 
 🤝 Let’s Connect
+
 📧 Email: pamnaniyash195@gmail.com
 🔗 LinkedIn: linkedin.com/in/yash-pamnani-94a515149
 
